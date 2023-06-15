@@ -3,6 +3,7 @@
 need apache2 and mysql-server
 
 create database
+
 step 1
 ```
 create user 'userz'@'localhost' identified by 'qwerty123';
